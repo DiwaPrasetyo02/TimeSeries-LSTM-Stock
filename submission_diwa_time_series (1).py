@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """Submission_Diwa_Time_Series.ipynb
-Membuat Model Machine Learning dengan Data Time Series
+
 
 # Import Library
 """
