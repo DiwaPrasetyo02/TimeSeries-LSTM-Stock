@@ -1,1 +1,1 @@
-# TimeSeries-LSTM-Stock
+# TimeSeries-LSTM-Stock Tutorial
